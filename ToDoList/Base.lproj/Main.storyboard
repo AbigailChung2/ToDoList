@@ -47,7 +47,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="To-Do List" id="W8I-YP-ibT">
-                        <barButtonItem key="rightBarButtonItem" title="Item" image="plus" catalog="system" id="XJK-Lg-Lyr"/>
+                        <barButtonItem key="rightBarButtonItem" title="Item" image="plus" catalog="system" id="FRU-eX-Jwx"/>
                     </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9LL-dd-nVU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
